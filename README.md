@@ -16,6 +16,7 @@ machine learning project pipeline_ and understand each stage's importance:
 * **Modelling** (SVM, KNN)
 * **Performance Evaluation** (quality metric; how the data will be used [training + validation + test of models])
 
+![Screenshot 2023-01-24 at 20 40 01](https://user-images.githubusercontent.com/118363955/214405568-284ce64e-2469-4e84-8ede-c2d9139d51b7.png)
 
 ## **Dataset**
 The project uses **832 given recording**s of either **hummings or whistlings** of the most notable parts of the theme songs of either Harry Potter or
